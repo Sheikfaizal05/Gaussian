@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-![alt text](image.png)
+![Sheik](image.png)
 
 
 ## Result:
